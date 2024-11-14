@@ -1,0 +1,70 @@
+.im{
+    
+    height: 80px;
+    width: 90px;
+    margin: 8px;
+}
+
+
+h1{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    padding: 20px;
+    margin: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+*.btn-outline-primary {
+    color:white;
+    border-color: white;
+    background-color: white;
+
+}
+
+  .btn{
+  background-color:#4200bd(117, 36, 184);
+  border: 2px solid;
+  }
+
+  .txt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#eeee;
+    font-weight: bold;
+  }
+  .b
+  {
+    
+    background-color:#4200bd;
+  }
+
+  .r {
+    
+    color:white;
+    font-weight: 50;
+    font-weight: bold;
+  }
+  body{
+    background-color: #E6E6FA;
+  }
+  .titulo{
+    color: #4200bd;
+    justify-items:center ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 2%;
+  }
+  .i{
+    justify-items:center ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+  }
+  .f{
+    justify-items:center ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
